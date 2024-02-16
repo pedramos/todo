@@ -7,7 +7,7 @@ package main
 import (
 	"strings"
 
-	"rsc.io/todo/task"
+	"plramos.win/todo/task"
 )
 
 func (w *awin) ExecSort(arg string) {

@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"9fans.net/go/acme"
-	"9fans.net/go/plumb"
-	"rsc.io/todo/task"
+	"plramos.win/9fans/acme"
+	"plramos.win/9fans/plumb"
+	"plramos.win/todo/task"
 )
 
 const root = "/todo/" // acme window root "directory"

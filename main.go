@@ -15,7 +15,7 @@ The -a flag opens the task or query in an acme window.
 The -e flag opens the task or query in the system editor.
 
 The exact acme/editor integration remains undocumented
-but is similar to acme mail or to rsc.io/github/issue.
+but is similar to acme mail or to plramos.win/github/issue.
 
 */
 package main
@@ -31,7 +31,7 @@ import (
 	"strings"
 	"time"
 
-	"rsc.io/todo/task"
+	"plramos.win/todo/task"
 )
 
 var (

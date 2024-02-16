@@ -1,5 +1,5 @@
-module rsc.io/todo
+module plramos.win/todo
 
 go 1.13
 
-require 9fans.net/go v0.0.1
+require plramos.win/9fans v0.0.0-20240204162457-069b09427b31 // indirect
